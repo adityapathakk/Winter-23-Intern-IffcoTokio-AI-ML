@@ -1,0 +1,12 @@
+27th December, 2023
+
+Revised Linear Regression - 
+	Definition, Assumptions
+	Cost Function
+
+Need to:
+	revise more concepts written in document provided by Sumit sir (Linear/Logistic Regression)
+	Classification problems (credit card fraud/diabetes detection)
+	Image Classification
+
+https://www.geeksforgeeks.org/getting-started-with-classification/
