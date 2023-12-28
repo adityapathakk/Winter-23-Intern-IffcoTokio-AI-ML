@@ -3,6 +3,7 @@
 Revised Linear Regression - 
 	Definition, Assumptions
 	Cost Function
+	Gradient Descent
 
 Need to:
 	revise more concepts written in document provided by Sumit sir (Linear/Logistic Regression)
