@@ -11,5 +11,5 @@ I approached this valuable opportunity in this manner:<br><br>
 - Guidance from my mentors: Arpit sir, Geshu sir and Sumit sir<br>
 - Learning concepts from YouTube, Coursera, GeeksForGeeks and Kaggle Notebooks<br>
 - Making notes in my journal, text files and Jupyter Notebooks (all of which can be found here in .pdf, .ipynb and .txt files in this repository)
-<hr>
-This repository doesn't contain any information that belongs to "Iffco Tokio General Insurance Co. Ltd."
+<br><br>
+Disclaimer: This repository doesn't contain any information that belongs to "Iffco Tokio General Insurance Co. Ltd."
