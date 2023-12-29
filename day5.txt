@@ -1,0 +1,11 @@
+28th December, 2023
+
+Revised Linear Regression - 
+	Multiple Linear Regression
+	Vectorization
+
+Started Logistic Regression
+
+Need to -
+	grasp more concepts of Logistic Regression
+	work on Diabetes dataset for practical implementation
