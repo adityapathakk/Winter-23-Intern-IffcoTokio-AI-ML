@@ -5,7 +5,7 @@ Housing.csv was used on Day 2 and Day 3. This data was provided to me by one of 
 The data seems similar to the data from this <a href="https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression">link.</a>
 <br>
 Throughout this internship, I'm making notes and collecting important links and topics, and I aim to use all that + the knowledge I gain while working on the project to create a comprehensive 'Project Report'.
-<br><br>
+<br>
 <h3>My methodology</h3>
 I approached this valuable opportunity in this manner:<br><br>
 - Guidance from my mentors: Arpit sir, Geshu sir and Sumit sir<br>
