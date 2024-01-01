@@ -1,0 +1,6 @@
+January 1, 2024
+
+Studied Decision Trees, will research more about practical implementation.
+Also, barely started working on Problem Statement. Lots to go.
+
+Need to cover topics that I've talked about in Day 6's notes.
