@@ -56,3 +56,9 @@ https://www.youtube.com/watch?v=rUidFtU6DRI
 Diabetes Prediction using logistic regression tutorial | How to build a model to predict diabetes
 https://www.youtube.com/watch?v=YkkgEk_fZ9A
 
+Day 7
+
+Decision Trees : Learn from Krish Naik ML playlist + GFG
+
+Cross Selling
+https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/
