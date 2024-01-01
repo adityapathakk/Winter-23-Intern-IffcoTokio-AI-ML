@@ -1,0 +1,58 @@
+﻿Iffco Tokio ML Internship
+Links (playlists, videos, articles) and keywords that were helpful/should be to be revisited
+
+
+Day 1
+
+Krish Naik-Statistics in Machine Learning (saved to YT)
+https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+
+Mastering Statistics
+https://www.youtube.com/playlist?list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
+
+Sampling Methods
+https://www.scribbr.com/methodology/sampling-methods#:~:text=Probability%20sampling%20methods%20include%20simple,a%20chance%20of%20being%20included.
+
+ways to select samples probabilistic non probabilistic
+
+Day 2
+
+Boston House Price Prediction Analysis (Regression)
+https://www.youtube.com/watch?v=WXXHPiX5LoQ
+
+House Price Prediction using Linear Regression Machine Learning (Article)
+https://studygyaan.com/data-science/linear-regression-machine-learning-project-for-house-price-prediction?expand_article=1
+
+House Price Prediction in Python - Full Machine Learning Project
+https://www.youtube.com/watch?v=Wqmtf9SA_kk
+
+Day 3
+
+House Price Prediction in Python - Full Machine Learning Project
+https://www.youtube.com/watch?v=uu8um0JmYA8
+
+Day 4
+
+Computer Vision and Image Processing - NPTEL IIT Guwahati
+https://www.youtube.com/playlist?list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo
+
+Regression Series - zedstatistics
+https://www.youtube.com/playlist?list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi
+
+Andrew Ng Course
+
+Day 5 
+
+Andrew Ng Course
+
+Day 6
+
+Project 2: Diabetes Prediction using Machine Learning with Python | End To End Python ML Project
+https://www.youtube.com/watch?v=xUE7SjVx9bQ
+
+diabetes prediction using Logistic regression
+https://www.youtube.com/watch?v=rUidFtU6DRI
+
+Diabetes Prediction using logistic regression tutorial | How to build a model to predict diabetes
+https://www.youtube.com/watch?v=YkkgEk_fZ9A
+
