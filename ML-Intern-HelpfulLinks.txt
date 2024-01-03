@@ -37,11 +37,17 @@ Diabetes Prediction using logistic regression tutorial | How to build a model to
 
 Day 7
 
-Decision Trees : Learn from Krish Naik ML playlist + GFG
+Decision Trees - Learn from Krish Naik ML playlist + GFG
 Cross Selling - https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/
 Date Time - https://www.programiz.com/python-programming/datetime/strftime#How%20strftime()%20Works?
 
 Day 8
 
 Duplicates in Dataframes - https://sparkbyexamples.com/pandas/get-unique-rows-in-pandas/
-Low Frequency -> Others: https://stackoverflow.com/questions/63067496/how-do-i-assign-other-to-low-frequency-categories-pandas
+Low Frequency Categories -> Others - https://stackoverflow.com/questions/63067496/how-do-i-assign-other-to-low-frequency-categories-pandas
+
+Day 9
+
+NaN valued row dropping - https://www.geeksforgeeks.org/drop-rows-from-pandas-dataframe-with-missing-values-or-nan-in-columns/
+Dropping rows by conditions - https://www.geeksforgeeks.org/how-to-drop-rows-in-dataframe-by-conditions-on-column-values/
+String concatenation - https://www.pythontutorial.net/python-string-methods/python-string-concatenation/
