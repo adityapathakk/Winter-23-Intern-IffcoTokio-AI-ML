@@ -51,3 +51,4 @@ Day 9
 NaN valued row dropping - https://www.geeksforgeeks.org/drop-rows-from-pandas-dataframe-with-missing-values-or-nan-in-columns/
 Dropping rows by conditions - https://www.geeksforgeeks.org/how-to-drop-rows-in-dataframe-by-conditions-on-column-values/
 String concatenation - https://www.pythontutorial.net/python-string-methods/python-string-concatenation/
+Dropping columns - https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
