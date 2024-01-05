@@ -52,3 +52,7 @@ NaN valued row dropping - https://www.geeksforgeeks.org/drop-rows-from-pandas-da
 Dropping rows by conditions - https://www.geeksforgeeks.org/how-to-drop-rows-in-dataframe-by-conditions-on-column-values/
 String concatenation - https://www.pythontutorial.net/python-string-methods/python-string-concatenation/
 Dropping columns - https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+
+Day 10, 11
+
+Replace values in column based on condition - https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/
