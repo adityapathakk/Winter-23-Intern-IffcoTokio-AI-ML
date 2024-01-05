@@ -1,0 +1,11 @@
+January 4, 2024
+
+will push day 10 and day 11 work together.
+today, i continued with data cleaning. the first stage is almost finished, i.e. individual files have been cleaned and merged.
+now all these merged files (coverage, vehicle, header, contact) need to be joined on the primary key (p400 policy#), and then some more data cleaning may be required.
+also, data is going to be imbalanced, so we need to see how we deal with that (under/over sampling or something else).
+after that, we'll probably move to data visualisation, exploration, EDA.
+
+January 5, 2024
+head_cov_contact_veh files have been merged. primary key duplicates removed. target column (bothLOB) created.
+need to deal with data imbalance and find out relationships with target column by conducting data exploration.
