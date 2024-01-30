@@ -56,3 +56,10 @@ Dropping columns - https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-col
 Day 10, 11
 
 Replace values in column based on condition - https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/
+
+Day (idk, date is 30th January, 2024)
+
+https://machinelearningtutorials.org/pandas-encoding-categorical-features-with-examples/
+https://stats.stackexchange.com/questions/520731/how-to-plot-binary-vs-categorical-nominal-data
+plotting binary vs categorical data, plotting value_counts
+ways to check relationship between columns
