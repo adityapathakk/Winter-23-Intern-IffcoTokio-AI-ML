@@ -71,3 +71,27 @@ AUC-ROC Curve, Classification Report, XGB
 https://www.geeksforgeeks.org/compute-classification-report-and-confusion-matrix-in-python/
 https://www.geeksforgeeks.org/auc-roc-curve/
 https://stackoverflow.com/questions/19782010/how-to-print-in-2-decimal-places
+
+A lot of links/topics coming up, reading material to increase knowledge
+
+https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+https://www.geeksforgeeks.org/ml-xgboost-extreme-gradient-boosting/
+https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+https://stackoverflow.com/questions/34265102/xgboost-categorical-variables-dummification-vs-encoding
+https://www.datacamp.com/tutorial/xgboost-in-python
+https://www.geeksforgeeks.org/xgboost/
+https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/
+XGBoost vs Random Forest
+https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/
+https://stackoverflow.com/questions/27159189/find-empty-or-nan-entry-in-pandas-dataframe
+https://coderzcolumn.com/tutorials/machine-learning/scikit-plot-visualizing-machine-learning-algorithm-results-and-performance
+Plotting Model Performance
+https://learn.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/label-images-for-object-detection-using-vott
+vot/vott-toolkit (py library)
+https://stackabuse.com/object-detection-inference-in-python-with-yolov5-and-pytorch/
+https://www.geeksforgeeks.org/python-statistics-mean-function/
+https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
+https://www.geeksforgeeks.org/machine-learning-model-evaluation/
+https://www.kaggle.com/code/alexisbcook/titanic-tutorial/log
+https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/
+https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
