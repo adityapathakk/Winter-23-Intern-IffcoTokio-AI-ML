@@ -64,3 +64,10 @@ https://stats.stackexchange.com/questions/520731/how-to-plot-binary-vs-categoric
 https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
 plotting binary vs categorical data, plotting value_counts
 ways to check relationship between columns
+
+Some more links and topics (date: 27th March, 2024)
+
+AUC-ROC Curve, Classification Report, XGB
+https://www.geeksforgeeks.org/compute-classification-report-and-confusion-matrix-in-python/
+https://www.geeksforgeeks.org/auc-roc-curve/
+https://stackoverflow.com/questions/19782010/how-to-print-in-2-decimal-places
