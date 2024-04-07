@@ -95,3 +95,8 @@ https://www.geeksforgeeks.org/machine-learning-model-evaluation/
 https://www.kaggle.com/code/alexisbcook/titanic-tutorial/log
 https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/
 https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
+https://medium.com/game-of-bits/how-to-deal-with-imbalanced-data-in-classification-bd03cfc66066
+https://www.askpython.com/python/examples/heatmaps-in-python
+https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/
+https://www.youtube.com/watch?v=OMFQvcBx-Fc
